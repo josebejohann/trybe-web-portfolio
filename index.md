@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
@@ -14,6 +13,7 @@
     </ul>
     <br /><br /><br />
     <h2 id="about-me">Quem sou eu?</h2>
+    <img src="https://raw.githubusercontent.com/josebejohann/trybe-web-portfolio/master/web-portfolio/selfie.jpg" alt="Selfie" width="200px">
     <p>Meu nome é José Bernardo Johann Oliveira de Souza!</p>
     <br /><br /><br />
     <h2 id="description">Uma breve descrição sobre mim</h2>
