@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Portfólio Web</title>
+  </head>
 
-You can use the [editor on GitHub](https://github.com/josebejohann/trybe-web-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/josebejohann/trybe-web-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <body>
+    <h1>MEU PORTFÓLIO</h1>
+    <h2>Índice</h2>
+    <ul>
+      <a href="#about-me"><li>Quem sou eu?</li></a>
+      <a href="#description"><li>Uma breve descrição sobre mim</li></a>
+      <a href="#habilities"><li>Minhas habilidades</li></a>
+    </ul>
+    <br /><br /><br />
+    <h2 id="about-me">Quem sou eu?</h2>
+    <p>Meu nome é José Bernardo Johann Oliveira de Souza!</p>
+    <br /><br /><br />
+    <h2 id="description">Uma breve descrição sobre mim</h2>
+    <p>
+      Tenho 22 anos, sou <strong>natural de Belém do Pará</strong>, mas
+      <strong>moro em Florianópolis</strong> há 1 ano.<br />Cursei Engenharia
+      Química por 1 ano na Universidade Federal do Pará (em 2016), morei em São
+      Paulo em 2017 e, em 2018, me tornei padrinho de um menino incrível chamado
+      Heitor.<br />Em 2019 - junto a minha segunda mudança de cidade - eu fiquei
+      noivo de uma das mulheres mais inteligentes que já conheci na vida: a
+      Ana.<br />Me encontrei na programação no início de 2020 e, desde então,
+      venho expandindo meus conhecimentos acerca do assunto para me tornar um
+      <strong>desenvolvedor full stack</strong>!
+    </p>
+    <br /><br /><br />
+    <h2 id="habilities">Minhas habilidades</h2>
+    <p>
+      Eu sou muito bom com os jogos eletrônicos,
+      <strong>tenho facilidade em aprender a programar</strong>, adoro resolver
+      um cubo mágico e <em>sei tocar piano</em>.
+    </p>
+    <br /><br /><br />
+    <a href="https://blog.rocketseat.com.br/" target="_blank">
+      Um blog que eu gosto e recomendo!
+    </a>
+    <br /><br /><br />
+  </body>
+</html>
