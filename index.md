@@ -22,7 +22,7 @@
       <strong>moro em Florianópolis</strong> há 1 ano.<br />Cursei Engenharia
       Química por 1 ano na Universidade Federal do Pará (em 2016), morei em São
       Paulo em 2017 e, em 2018, me tornei padrinho de um menino incrível chamado
-      Heitor.<br />Em 2019 - junto a minha segunda mudança de cidade - eu fiquei
+      Heitor.<br />Em 2019 - junto a minha segunda mudança de cidade -, eu fiquei
       noivo de uma das mulheres mais inteligentes que já conheci na vida: a
       Ana.<br />Me encontrei na programação no início de 2020 e, desde então,
       venho expandindo meus conhecimentos acerca do assunto para me tornar um
