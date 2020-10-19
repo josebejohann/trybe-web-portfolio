@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
@@ -8,7 +7,7 @@
         background-color: rgb(255, 255, 255);
       }
       .styled-font {
-        font-family: sans-serif;
+        font-family: Verdana, sans-serif;
       }
       .styled-font strong {
         color: rgb(28, 101, 242);
