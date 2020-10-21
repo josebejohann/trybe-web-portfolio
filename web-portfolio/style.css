@@ -1,0 +1,41 @@
+body {
+  margin: 35px;
+  padding: 35px;
+  background-color: #ECECEC;
+}
+
+.styled-font {
+  font-family: Tahoma, sans-serif;
+}
+
+#about-me {
+  text-align: center;
+  font-size: 20px;
+}
+
+.image {
+  float: left;
+  margin: 0 15px 35px 0;
+  padding: 5px;
+  background-color: rgb(141, 141, 141);
+}
+
+strong {
+  color: blue;
+}
+
+#habilities {
+  clear: both;
+}
+
+.principal-hability {
+  font-size: 20px;
+}
+
+.secondary-hability {
+  font-size: 16px;
+}
+
+.odd {
+  color: blue;
+}
